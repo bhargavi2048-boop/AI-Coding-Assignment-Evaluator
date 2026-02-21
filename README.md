@@ -48,7 +48,8 @@ This file uses hash routes. You can navigate via navbar or manually:
 
 ## Demo Evaluator (How It Works)
 
-    Demo Link: https://bhargavi2048-boop.github.io/AI-Coding-Assignment-Evaluator/
+Demo Link: 
+    https://bhargavi2048-boop.github.io/AI-Coding-Assignment-Evaluator/
 
 On the **Demo** page you can:
 
