@@ -49,7 +49,7 @@ This file uses hash routes. You can navigate via navbar or manually:
 ## Demo Evaluator (How It Works)
 
 On the **Demo** page you can:
-(https://github.com/user-attachments/files/25459311/AI.Coding.Assignment.Evaluator.html)
+https://bhargavi2048-boop.github.io/AI-Coding-Assignment-Evaluator/
 1. Paste a **GitHub file URL** *or* upload a **code file**
 2. Optionally choose a language
 3. Select a **rubric profile**
