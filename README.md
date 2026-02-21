@@ -47,7 +47,9 @@ This file uses hash routes. You can navigate via navbar or manually:
 ---
 
 ## Demo Evaluator (How It Works)
+
 On the **Demo** page you can:
+(https://github.com/user-attachments/files/25459311/AI.Coding.Assignment.Evaluator.html)
 1. Paste a **GitHub file URL** *or* upload a **code file**
 2. Optionally choose a language
 3. Select a **rubric profile**
@@ -117,8 +119,8 @@ In the Demo logic:
 ## License / Usage
 This is a demo/MVP prototype suitable for assignments and portfolio demos.  
 You may modify and reuse it for educational purposes.
-👩‍💻 Author
 
+👩‍💻 Author
 Bhargavi N
 
 “Code is like poetry; every line should sing with clarity.”
